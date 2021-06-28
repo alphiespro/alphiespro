@@ -1,0 +1,21 @@
+body{
+background-color: red;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.music{
+display: block;
+background-size: 100%;
+color: white;
+font-size: 100px;
+font-family: lucasa;
+font-size: 30px;
+
+text-align: center;
+padding: 9px;
+margin: 30px 10px 34px 0;
+position: auto;
+background: transparent;
+}
+
